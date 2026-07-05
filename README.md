@@ -20,7 +20,7 @@
 
 ### リリース記録
 
-- 2026-07-05: Synced upstream `sscodeai/skills@272f99b`, local commit `pending`. Initialized Japanese localization repository, translation workflow, validation scripts, license translation, and Japanese README entrypoint.
+- 2026-07-05: Synced upstream `sscodeai/skills@272f99b`, local commit `247525d`. Initialized Japanese localization repository, translation workflow, validation scripts, license translation, and Japanese README entrypoint.
 
 ### 最新 main 検証
 
