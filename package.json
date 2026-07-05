@@ -1,11 +1,11 @@
 {
-  "name": "mattpocock-skills",
+  "name": "skills-ja-jp",
   "version": "1.0.1",
   "private": true,
-  "description": "Matt Pocock's agent skills for real engineering",
+  "description": "Japanese localization of sscodeai/skills for native Japanese developers",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mattpocock/skills"
+    "url": "https://github.com/sscodeai/skills-ja-JP"
   },
   "license": "MIT",
   "scripts": {
